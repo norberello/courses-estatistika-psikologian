@@ -23,7 +23,7 @@ Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know? Proceedin
 Pista bat nahi baduzu sakatu "**Take Hint**" behean
 
 `@hint`
-bakarrik "submit answer" sakatu, ez duzu besterik egin behar :) lehengo honetan
+bakarrik "submit answer" sakatu, ez duzu besterik egin behar :) lehengo ariketa honetan
 
 `@pre_exercise_code`
 ```{r}
