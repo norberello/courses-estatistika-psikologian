@@ -13,13 +13,13 @@ xp: 100
 skills: 1
 ```
 
-Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non zutabe bakoitza aldagai bat den eta lerro bakoitza kasu bat (psikologian normalean pertsona bat). Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa datubase hau erabiliko dugu non pertsona bakoitzak
+Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non zutabe bakoitza aldagai bat den eta lerro bakoitza kasu bat (psikologian normalean pertsona bat). Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa datubase hau erabiliko dugu non pertsona bakoitzak zenbat aurpegi gogoratzen dituen ikertu den:
 
 > Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know?. Proceedings of the Royal Society B 285(1888): 20181319
 
 `@instructions`
 1. `aurpegiak` datubasea kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
-2. pista bat nahi baduzu sakatu `hint`
+2. pista bat nahi baduzu sakatu "**take hint**" behean
 
 `@hint`
 bakarrik "submit answer" sakatu, ez duzu besterik egin behar :)
