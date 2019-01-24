@@ -1,9 +1,9 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Estatistika deskribatzailea'
+description: "Zentro joerako neurriak, sakabanatze neurriak, asimetria, eta kurtosi neurriak\n"
 ---
 
-## Example coding exercise
+## Datuak ikusi
 
 ```yaml
 type: NormalExercise
@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+> Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know?. Proceedings of the Royal Society B 285(1888): 20181319
 
 `@instructions`
 
@@ -23,7 +23,7 @@ This is an example exercise.
 
 `@pre_exercise_code`
 ```{r}
-
+aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
 ```
 
 `@sample_code`
