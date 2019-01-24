@@ -19,7 +19,7 @@ Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non
 
 `@instructions`
 1. `aurpegiak` datubasea kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
-2. pista bat nahi baduzu sakatu "**take hint**" behean
+2. pista bat nahi baduzu sakatu "**Take Hint**" behean
 
 `@hint`
 bakarrik "submit answer" sakatu, ez duzu besterik egin behar :)
