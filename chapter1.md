@@ -13,15 +13,15 @@ xp: 100
 skills: 1
 ```
 
-Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non zutabe bakoitza aldagai bat den. Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa datubase hau erabiliko:
+Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non zutabe bakoitza aldagai bat den eta lerro bakoitza kasu bat (psikologian normalean pertsona bat). Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa datubase hau erabiliko dugu non pertsona bakoitzak
 
 > Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know?. Proceedings of the Royal Society B 285(1888): 20181319
 
 `@instructions`
-
+`aurpegiak` datubasea kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
 
 `@hint`
-
+bakarrik "submit answer" sakatu
 
 `@pre_exercise_code`
 ```{r}
@@ -30,15 +30,18 @@ aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4
 
 `@sample_code`
 ```{r}
+#aurpegiak datubasea ikusi
+print(aurpegiak)
 
 ```
 
 `@solution`
 ```{r}
-
+print(aurpegiak)
 ```
 
 `@sct`
 ```{r}
-
+test_error()
+success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
 ```
