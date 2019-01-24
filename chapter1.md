@@ -42,6 +42,5 @@ print(aurpegiak)
 
 `@sct`
 ```{r}
-test_error()
 success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
 ```
