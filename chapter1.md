@@ -77,3 +77,43 @@ print(aurpegiak)
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 6ec8fd2d7b
+xp: 100
+```
+
+`aurpegiak` datubankua esploratzen jarraitzen dugu. 
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
+```
+
+`@sample_code`
+```{r}
+head(______)
+
+
+```
+
+`@solution`
+```{r}
+head(aurpegiak)
+```
+
+`@sct`
+```{r}
+
+```
