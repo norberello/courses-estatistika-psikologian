@@ -1,5 +1,5 @@
-title: Estatistika psikologian
-description: Course description goes here.
+title: Estatistika psikologian (Euskaraz)
+description: Ikastaro honek estatistikan erabilten diren analisi nagusiei birpasa egiten zaie metodo ez-esperimentalei begira.
 programming_language: r
 from: "r-base-prod:v1.0.2"
 #from: "tidyverse-base-prod:v1.0.2"
