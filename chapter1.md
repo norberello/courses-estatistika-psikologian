@@ -18,8 +18,9 @@ Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non
 > Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know?. Proceedings of the Royal Society B 285(1888): 20181319
 
 `@instructions`
-1. `aurpegiak` datubasea kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
-2. pista bat nahi baduzu sakatu "**Take Hint**" behean
+`aurpegiak` datubasea kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
+"**Run Code**" erabiliz esperimentatu dezakezu kodeak daukan irteera, erantzuna daukazunean "**Submit Answer**" sakatu
+Pista bat nahi baduzu sakatu "**Take Hint**" behean
 
 `@hint`
 bakarrik "submit answer" sakatu, ez duzu besterik egin behar :)
