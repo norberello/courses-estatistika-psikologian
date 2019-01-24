@@ -23,7 +23,7 @@ Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non
 Pista bat nahi baduzu sakatu "**Take Hint**" behean
 
 `@hint`
-bakarrik "submit answer" sakatu, ez duzu besterik egin behar :)
+bakarrik "submit answer" sakatu, ez duzu besterik egin behar :) lehengo honetan
 
 `@pre_exercise_code`
 ```{r}
