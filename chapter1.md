@@ -74,7 +74,7 @@ aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4
 ```yaml
 type: NormalExercise
 key: 49ee500c59
-xp: 50
+xp: 35
 ```
 
 `@instructions`
@@ -107,7 +107,7 @@ tail(aurpegiak)
 ```yaml
 type: NormalExercise
 key: 18d6469d65
-xp: 50
+xp: 35
 ```
 
 `@instructions`
@@ -129,6 +129,35 @@ ___(argazkiak)
 #zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
 names(argazkiak)
 dim(argazkiak)
+```
+
+`@sct`
+```{r}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: cd34a9d446
+xp: 30
+```
+
+`@instructions`
+
+
+`@hint`
+
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
 ```
 
 `@sct`
