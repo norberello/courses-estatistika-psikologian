@@ -57,7 +57,7 @@ key: ef6fa701ab
 xp: 100
 ```
 
-Jarrai dezagun `aurpegiak` datu-markoa miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas ditzagun bere posibilidadeak datubasea miaketa egiten dugun bitartean.
+Jarrai dezagun `oroimen.data` datu-markoa miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas ditzagun bere posibilidadeak datubasea miaketa egiten dugun bitartean.
 
 Ohar orokorrak:
 
@@ -67,7 +67,7 @@ Ohar orokorrak:
 
 `@pre_exercise_code`
 ```{r}
-aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
+oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
 ```
 
 ***
