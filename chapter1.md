@@ -240,10 +240,10 @@ xp: 50
 Ez dago komando bakar bat R-n moda zuzenean ikusteko, baina `table()` aginduak modaz aparte informazio gehiago ematen digu, maiztasun taula bat eraikitzen du. Idatzi `table(oroimen.data$Adina)` kontsolan eta ikusi emaitza. Zein da datu-markoaren adinaren moda?
 
 `@possible_answers`
-- 2
-- 3
-- 4
-- 9
+- 19
+- 20
+- 21
+- 22
 
 `@hint`
 `table(oroimen.data$Adina)` eta sakatu enter, zein da gehien errepikatzen den adina?
@@ -255,5 +255,14 @@ oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositorie
 
 `@sct`
 ```{r}
+#https://www.r-project.org/conferences/useR-2015/presentations/245.pdf
+msg1 = "ez, ez da hori"
+msg2 = "oker zaude"
+msg3 = "ez da zuzena"
+msg4 = "bai!"
 
+test_mc(correct = 4, feedback_msgs = c(msg1,msg2,msg3,msg4))
+
+# Final message the student will see upon completing the exercise
+success_msg("bai, halan da, gehien errepikatzen den adina 22 urte izan, 9 aldiz alegia")
 ```
