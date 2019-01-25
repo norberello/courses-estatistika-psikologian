@@ -145,19 +145,20 @@ xp: 30
 ```
 
 `@instructions`
-
+str() komandoak ("structure") zenbat behaketa eta aldagaiak dauden, eta inportantegoa dena: aldagaien natura diosku.
 
 `@hint`
-
+idatzi komandoa str eta parentesisen artean datubasearen izena
 
 `@sample_code`
 ```{r}
+#aplikatu str() "aurpegiak" datubaseari:
 
 ```
 
 `@solution`
 ```{r}
-
+str(aldagaiak)
 ```
 
 `@sct`
