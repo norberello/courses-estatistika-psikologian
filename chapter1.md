@@ -122,14 +122,14 @@ idatzi `?names` kontsolan
 #zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
 names(_______)
 #zenbat lerro eta zutabe daude dira "aurpegiak" datubasean?
-___(aurpegiak)
+___(oroimen.data)
 ```
 
 `@solution`
 ```{r}
 #zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
-names(aurpegiak)
-dim(aurpegiak)
+names(oroimen.data)
+dim(oroimen.data)
 ```
 
 `@sct`
