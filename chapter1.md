@@ -148,7 +148,7 @@ xp: 30
 str() komandoak ("structure") zenbat behaketa eta aldagaiak dauden, eta inportantegoa dena: aldagaien natura diosku.
 
 `@hint`
-idatzi komandoa str eta parentesisen artean datubasearen izena
+Idatzi komandoa str eta parentesisen artean datubasearen izena
 
 `@sample_code`
 ```{r}
