@@ -82,20 +82,20 @@ xp: 35
 `head()` and `tail()` aginduek lehenego eta azkenengo 6 lerroak aldagien izenburuekin ematen dizkigute besteak beste.
 
 `@hint`
-aurpegiak ipini behar den lekuan
+`oroimen.data` ipini behar den lekuan
 
 `@sample_code`
 ```{r}
-head(aurpegiak)
+head(oroimen.data)
 tail(_________)
 ```
 
 `@solution`
 ```{r}
 #datuen lehenengo 6 lerroak
-head(aurpegiak)
+head(oroimen.data)
 #datuen azkenengo 6 lerroak
-tail(aurpegiak)
+tail(oroimen.data)
 ```
 
 `@sct`
