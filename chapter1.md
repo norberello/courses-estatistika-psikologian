@@ -256,12 +256,12 @@ oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositorie
 `@sct`
 ```{r}
 #https://www.r-project.org/conferences/useR-2015/presentations/245.pdf
-msg1 = "ez, ez da hori"
-msg2 = "oker zaude"
-msg3 = "ez da zuzena"
-msg4 = "bai!"
+#msg1 = "ez, ez da hori"
+#msg2 = "oker zaude"
+#msg3 = "ez da zuzena"
+#msg4 = "bai!"
 
-test_mc(correct = 4, feedback_msgs = c(msg1,msg2,msg3,msg4))
+#test_mc(correct = 4, feedback_msgs = c(msg1,msg2,msg3,msg4))
 
 # Final message the student will see upon completing the exercise
 success_msg("bai, halan da, gehien errepikatzen den adina 22 urtetakoa izan, 9 pertsonak adin hori dauka alegia")
