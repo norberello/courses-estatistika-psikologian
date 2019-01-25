@@ -197,29 +197,29 @@ xp: 100
 Zentro-joerako neurriek datu-multzo bat zein balioren inguruan biltzen den adierazten dute, horren sakabanatzea edo aldakortasuna kontutan hartu barik. Zentro-joerako neurririk amankomunena batezbestekoa da, `mean()`, baina batzutan mediana, `median()`, eta moda ere jakitea komenigarria liteke. 
 
 `@instructions`
-Erabili `aurpegiak` datu-markoa kalkulatzeko pertsona batek batezbeste zenbat aurpegi gogora ditzakeen, kalkulatu aurpegien mediana ere bai. Datu-marko baten aldagai bat aukeratzeko **$** sinboloa erabiltzen da.
+Erabili `oroimen.data` datu-markoa kalkulatzeko pertsona batek batezbeste zenbat aurpegi gogora ditzakeen, kalkulatu aurpegien mediana ere bai. Datu-marko baten aldagai bat aukeratzeko **$** sinboloa erabiltzen da.
 
 `@hint`
 
 
 `@pre_exercise_code`
 ```{r}
-aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
+oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
 ```
 
 `@sample_code`
 ```{r}
 #kalkulatu aurpegi kopuruaren batazbestekoa
-____(aurpegiak$Aurpegiak)
+____(oroimen.data$Aurpegiak)
 #kalkulatu aurpegi kopuruaren mediana
-______(aurpegiak$_________)
+______(oroimen.data$_________)
 
 ```
 
 `@solution`
 ```{r}
-mean(aurpegiak$Aurpegiak)
-median(aurpegiak$Aurpegiak)
+mean(oroimen.data$Aurpegiak)
+median(oroimen.data$Aurpegiak)
 ```
 
 `@sct`
