@@ -57,12 +57,13 @@ key: ef6fa701ab
 xp: 100
 ```
 
-Jarrai dezagun `aurpegiak` datubasea miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas distzagun bere posibilidadeak datubasea miaketa hori egiten dugun bitartean.
+Jarrai dezagun `aurpegiak` datubasea miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas ditzagun bere posibilidadeak datubasea miaketa egiten dugun bitartean.
 
-Oharrak:
+Ohar orokorrak:
 
-1. # sinboloa iruzkinak ipintzeko erabiliko da (honek ez du efekturik kodigoan
-2. ordezkatu "______" beharrezkoa den kodigoarekin erantzuna lortzeko
+1. **#** sinboloa iruzkinak ipintzeko erabiliko da (honek ez du efekturik kodean)
+2. Ordezkatu markatutako azpilerroak beharrezkoa den kodearekin erantzuna lortzeko
+3. Edozein unean esperimenta daiteke kontsola lehioan eta baitere kode leioan "Run Code" klik eginez, erantzun zuzenaz seguru zaudenean "Submit Answer"-ri eman.
 
 `@pre_exercise_code`
 ```{r}
