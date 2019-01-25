@@ -164,7 +164,7 @@ str(aurpegiak)
 
 `@sct`
 ```{r}
-success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
+success_msg("oso ondo, $ sinboloa erabiltzen da aldagaiak banaka identifikatzeko, hurrengo ariketetan ulertuko duzu hobeto")
 ```
 
 ---
