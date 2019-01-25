@@ -100,7 +100,7 @@ tail(aurpegiak)
 
 `@sct`
 ```{r}
-
+success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
 ```
 
 ***
@@ -134,7 +134,7 @@ dim(aurpegiak)
 
 `@sct`
 ```{r}
-
+success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
 ```
 
 ***
@@ -164,7 +164,7 @@ str(aurpegiak)
 
 `@sct`
 ```{r}
-
+success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
 ```
 
 ---
