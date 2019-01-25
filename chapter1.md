@@ -243,7 +243,7 @@ Ez dago komando bakar bat R-n moda zuzenean ikusteko, baina `table()` aginduak m
 - 19
 - 20
 - 21
-- 22
+- [22]
 
 `@hint`
 `table(oroimen.data$Adina)` eta sakatu enter, zein da gehien errepikatzen den adina?
