@@ -159,7 +159,7 @@ Idatzi komandoa str eta parentesisen artean datubasearen izena
 
 `@solution`
 ```{r}
-str(aldagaiak)
+str(aurpegiak)
 ```
 
 `@sct`
