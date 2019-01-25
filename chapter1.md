@@ -52,69 +52,14 @@ success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise
-key: 622ab4d83c
-xp: 50
-```
-
-gogora dezagun irteera:
-print(argazkiak)
-
-Zenbat pertsona daude datubasean?
-
-`@possible_answers`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
-print(aurpegiak)
-```
-
-`@sct`
-```{r}
-
-```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: NormalExercise
-key: 6ec8fd2d7b
+type: BulletExercise
+key: ef6fa701ab
 xp: 100
 ```
 
-`aurpegiak` datubankua esploratzen jarraitzen dugu.
-
-`@instructions`
-
-
-`@hint`
-
+Jarrai dezagun aurpegiak datubasea miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas distzagun bere posibilidadeak ere bai.
 
 `@pre_exercise_code`
 ```{r}
 aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
-```
-
-`@sample_code`
-```{r}
-head(______)
-
-
-```
-
-`@solution`
-```{r}
-head(aurpegiak)
-```
-
-`@sct`
-```{r}
-
 ```
