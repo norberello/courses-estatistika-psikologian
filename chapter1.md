@@ -229,7 +229,7 @@ median(oroimen.data$Aurpegiak)
 
 ---
 
-## Insert exercise title here
+## moda eta maiztasun taula
 
 ```yaml
 type: MultipleChoiceExercise
@@ -237,17 +237,20 @@ key: a8dda858bc
 xp: 50
 ```
 
-
+Ez dago komando bakar bat R-n moda zuzenean ikusteko, baina `table()` aginduak modaz aparte informazio gehiago ematen digu, maiztasun taula bat eraikitzen du. Idatzi `table(oroimen.data$Adina)` kontsolan eta ikusi emaitza. Zein da datu-markoaren adinaren moda?
 
 `@possible_answers`
-
+- 2
+- 3
+- 4
+- 9
 
 `@hint`
-
+`table(oroimen.data$Adina)` eta sakatu enter, zein da gehien errepikatzen den adina?
 
 `@pre_exercise_code`
 ```{r}
-
+oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
 ```
 
 `@sct`
