@@ -1,5 +1,5 @@
 title: Estatistika psikologian (Euskaraz)
-description: Ikastaro honek estatistikan erabilten diren analisi nagusiei birpasa egiten zaie metodo ez-esperimentalei begira. Ikastaroa R ariketez hornituta dago ikasleak zuzenean uler ditzan kontzeptu guztiak.
+description: Ikastaro honek estatistikan erabilten diren analisi nagusiei birpasa egiten zaie metodo ez-esperimentaleen inguruan. Ikastaroa R ariketez hornituta dago ikasleak zuzenean uler ditzan kontzeptu guztiak.
 programming_language: r
 from: "r-base-prod:v1.0.2"
 #from: "tidyverse-base-prod:v1.0.2"
