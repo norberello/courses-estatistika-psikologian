@@ -213,7 +213,6 @@ oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositorie
 ____(oroimen.data$Aurpegiak)
 #kalkulatu aurpegi kopuruaren mediana
 ______(oroimen.data$_________)
-
 ```
 
 `@solution`
