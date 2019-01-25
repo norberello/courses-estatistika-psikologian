@@ -19,7 +19,7 @@ Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non
 Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know? Proceedings of the Royal Society B 285(1888): 20181319. https://doi.org/10.1098/rspb.2018.1319
 
 `@instructions`
-1. `aurpegiak` datu-markoa ("data frame") kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
+1. `oroimen.data` datu-markoa ("data frame") kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
 2. "**Run Code**" erabiliz esperimentatu dezakezu kodeak daukan irteera, erantzuna daukazunean "**Submit Answer**" sakatu
 3. Pista bat nahi baduzu sakatu "**Take Hint**" behean
 
@@ -28,18 +28,18 @@ bakarrik "submit answer" sakatu, ez duzu besterik egin behar lehengo ariketa hon
 
 `@pre_exercise_code`
 ```{r}
-aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
+oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
 ```
 
 `@sample_code`
 ```{r}
 #aurpegiak datu-markoa ikusi
-print(aurpegiak)
+print(oroimen.data)
 ```
 
 `@solution`
 ```{r}
-print(aurpegiak)
+print(oroimen.data)
 ```
 
 `@sct`
