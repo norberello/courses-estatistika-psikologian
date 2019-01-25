@@ -119,13 +119,13 @@ idatzi `?names` kontsolan
 `@sample_code`
 ```{r}
 #zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
-names(argazkiak)
+names(_______)
 ```
 
 `@solution`
 ```{r}
 #zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
-names(_______)
+names(argazkiak)
 ```
 
 `@sct`
