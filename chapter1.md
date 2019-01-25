@@ -57,9 +57,62 @@ key: ef6fa701ab
 xp: 100
 ```
 
-Jarrai dezagun aurpegiak datubasea miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas distzagun bere posibilidadeak ere bai.
+Jarrai dezagun `aurpegiak` datubasea miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas distzagun bere posibilidadeak datubasea miaketa hori egiten dugun bitartean.
+
+Oharrak:
+
+1. # sinboloa iruzkinak ipintzeko erabiliko da (honek ez du efekturik kodigoan
+2. ordezkatu "______" beharrezkoa den kodigoarekin erantzuna lortzeko
 
 `@pre_exercise_code`
 ```{r}
 aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 49ee500c59
+xp: 100
+```
+
+`@instructions`
+`head()` and `tail()` aginduek lehenego eta azkenengo 6 lerroak aldagien izenburuekin ematen dizkigute besteak beste.
+
+`@hint`
+
+
+`@sample_code`
+```{r}
+head(aurpegiak)
+tail(_________)
+```
+
+`@solution`
+```{r}
+head(aurpegiak)
+tail(aurpegiak)
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: 1aa4f35dcc
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{r}
+
 ```
