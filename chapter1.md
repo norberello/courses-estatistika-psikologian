@@ -256,13 +256,24 @@ table(oroimen.data)
 
 `@sct`
 ```{r}
-#https://www.r-project.org/conferences/useR-2015/presentations/245.pdf
-msg1 = "ez, ez da hori"
-msg2 = "oker zaude"
-msg3 = "ez da zuzena"
-msg4 = "bai!"
+msg1 <- "That's someone who makes soups."
+msg2 <- "That's a clown who likes burgers."
+msg3 <- "Correct! Head over to the next exercise!"
+msg4 <- "Correct! Head over to the next exercise!"
+ex() %>% check_mc(correct = 4,
+                  feedback_msgs = c(msg1, msg2, msg3,msg4))
 
-test_mc(correct = 4, feedback_msgs = c(msg1,msg2,msg3,msg4))
+
+
+#https://www.r-project.org/conferences/useR-2015/presentations/245.pdf
+#msg1 = "ez, ez da hori"
+#msg2 = "oker zaude"
+#msg3 = "ez da zuzena"
+#msg4 = "bai!"
+
+#test_mc(correct = 4, feedback_msgs = c(msg1,msg2,msg3,msg4))
+#test_mc() can no longer be used in SCTs. Use its check equivalent instead.
+
 
 # Final message the student will see upon completing the exercise
 success_msg("bai, halan da, gehien errepikatzen den adina 22 urtetakoa izan, 9 pertsonak adin hori dauka alegia")
