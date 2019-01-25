@@ -88,7 +88,7 @@ key: 6ec8fd2d7b
 xp: 100
 ```
 
-`aurpegiak` datubankua esploratzen jarraitzen dugu. 
+`aurpegiak` datubankua esploratzen jarraitzen dugu.
 
 `@instructions`
 
