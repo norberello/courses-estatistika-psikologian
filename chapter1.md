@@ -264,5 +264,5 @@ msg4 = "bai!"
 test_mc(correct = 4, feedback_msgs = c(msg1,msg2,msg3,msg4))
 
 # Final message the student will see upon completing the exercise
-success_msg("bai, halan da, gehien errepikatzen den adina 22 urte izan, 9 aldiz alegia")
+success_msg("bai, halan da, gehien errepikatzen den adina 22 urtetakoa izan, 9 pertsonak adin hori dauka alegia")
 ```
