@@ -153,13 +153,13 @@ Idatzi komandoa str eta parentesisen artean datubasearen izena
 
 `@sample_code`
 ```{r}
-#aplikatu str() "aurpegiak" datubaseari:
+#aplikatu str() "oroimen.data" datu-markoari:
 
 ```
 
 `@solution`
 ```{r}
-str(aurpegiak)
+str(oroimen.data)
 ```
 
 `@sct`
