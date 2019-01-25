@@ -246,7 +246,7 @@ Ez dago agindu bakar bat R-n moda zuzenean ikusteko, baina `table()` aginduak mo
 - 22
 
 `@hint`
-`table(oroimen.data$Adina)` eta sakatu enter, zein da gehien errepikatzen den adina?
+`table(oroimen.data$Adina)` kontsolan idatzi eta sakatu enter, zein da gehien errepikatzen den adina?
 
 `@pre_exercise_code`
 ```{r}
