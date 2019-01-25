@@ -33,7 +33,7 @@ aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4
 
 `@sample_code`
 ```{r}
-#aurpegiak datubasea ikusi
+#aurpegiak datu-markoa ikusi
 print(aurpegiak)
 ```
 
@@ -180,6 +180,72 @@ xp: 100
 
 
 `@pre_exercise_code`
+```{r}
+
+```
+
+---
+
+## Zentro joerako neurriak
+
+```yaml
+type: NormalExercise
+key: 19b886e4c4
+xp: 100
+```
+
+Zentro-joerako neurriek datu-multzo bat zein balioren inguruan biltzen den adierazten dute, horren sakabanatzea edo aldakortasuna kontutan hartu barik. Zentro-joerako neurririk amankomunena batezbestekoa da, `mean()`, baina batzutan mediana, median() eta moda, mode(), ere erabiltzea komenigarria liteke.
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: a8dda858bc
+xp: 50
+```
+
+
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sct`
 ```{r}
 
 ```
