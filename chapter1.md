@@ -256,10 +256,10 @@ table(oroimen.data)
 
 `@sct`
 ```{r}
-msg1 <- "That's someone who makes soups."
-msg2 <- "That's a clown who likes burgers."
-msg3 <- "Correct! Head over to the next exercise!"
-msg4 <- "Correct! Head over to the next exercise!"
+msg1 <- "ez, ez da hori"
+msg2 <- "hum, ez, pentsatu"
+msg3 <- "ez da zuzena!"
+msg4 <- "halaxe da, bai!"
 ex() %>% check_mc(correct = 4,
                   feedback_msgs = c(msg1, msg2, msg3,msg4))
 
