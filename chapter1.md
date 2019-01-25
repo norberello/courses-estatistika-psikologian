@@ -246,7 +246,7 @@ Ez dago agindu bakar bat R-n moda zuzenean ateratzeko, baina `table()` aginduak 
 - [22]
 
 `@hint`
-`table(oroimen.data$Adina)` kontsolan idatzi eta sakatu enter, zein da gehien errepikatzen den adina?
+`barplot(table(oroimen.data$Adina))` kontsolan idatzi eta sakatu enter moda grafikoki ikusteko.
 
 `@pre_exercise_code`
 ```{r}
