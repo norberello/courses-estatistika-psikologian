@@ -237,7 +237,7 @@ key: a8dda858bc
 xp: 50
 ```
 
-Ez dago agindu bakar bat R-n moda zuzenean ikusteko, baina `table()` aginduak modaz aparte informazio gehiago ematen digu, maiztasun taula bat eraikitzen du alegia. Idatzi `table(oroimen.data$Adina)` kontsolan eta emaitza behatu. Zein da datu-markoaren adinaren moda?
+Ez dago agindu bakar bat R-n moda zuzenean ateratzeko, baina `table()` aginduak modaz aparte informazio gehiago ematen digu, maiztasun taula bat eraikitzen du alegia. Idatzi `table(oroimen.data$Adina)` kontsolan eta emaitza behatu. Zein da datu-markoaren adinaren moda?
 
 `@possible_answers`
 - 19
