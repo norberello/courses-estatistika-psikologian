@@ -111,7 +111,7 @@ xp: 50
 ```
 
 `@instructions`
-`names()` komandoak aldagien izenak ematen ditu.
+`names()` komandoak aldagien izenak ematen ditu eta dim() datubasearen dimentsioak (zenbat lerro eta zenbat zutabe)
 
 `@hint`
 idatzi `?names` kontsolan
@@ -120,12 +120,15 @@ idatzi `?names` kontsolan
 ```{r}
 #zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
 names(_______)
+#zenbat lerro eta zutabe daude dira "aurpegiak" datubasean?
+___(argazkiak)
 ```
 
 `@solution`
 ```{r}
 #zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
 names(argazkiak)
+dim(argazkiak)
 ```
 
 `@sct`
