@@ -275,5 +275,5 @@ ex() %>% check_mc(correct = 4,
 
 
 # Final message the student will see upon completing the exercise
-success_msg("bai, halan da, gehien errepikatzen den adina 22 urtetakoa izan, 9 pertsonak adin hori dauka alegia")
+success_msg("bai, halan da, gehien errepikatzen den adina 22 urtetakoa izan da, 9 pertsonak adin hori dauka alegia")
 ```
