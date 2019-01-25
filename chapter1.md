@@ -200,7 +200,8 @@ Zentro-joerako neurriek datu-multzo bat zein balioren inguruan biltzen den adier
 Erabili `oroimen.data` datu-markoa kalkulatzeko pertsona batek batezbeste zenbat aurpegi gogora ditzakeen, kalkulatu aurpegien mediana ere bai. Datu-marko baten aldagai bat aukeratzeko **$** sinboloa erabiltzen da.
 
 `@hint`
-
+1. komandoen aldagaiak parentesisen artean jarri
+2. etzazu ahaztu datu-markoan aldagaia aukeratzeko **$** erabileaz
 
 `@pre_exercise_code`
 ```{r}
