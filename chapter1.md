@@ -49,7 +49,7 @@ success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
 
 ---
 
-## Insert exercise title here
+## Aurpegien datubasea miatzen R komanduez
 
 ```yaml
 type: BulletExercise
@@ -74,14 +74,14 @@ aurpegiak <- read.csv(url("https://assets.datacamp.com/production/repositories/4
 ```yaml
 type: NormalExercise
 key: 49ee500c59
-xp: 100
+xp: 50
 ```
 
 `@instructions`
 `head()` and `tail()` aginduek lehenego eta azkenengo 6 lerroak aldagien izenburuekin ematen dizkigute besteak beste.
 
 `@hint`
-
+aurpegiak ipini behar den lekuan
 
 `@sample_code`
 ```{r}
@@ -91,8 +91,41 @@ tail(_________)
 
 `@solution`
 ```{r}
+#datuen lehenengo 6 lerroak
 head(aurpegiak)
+#datuen azkenengo 6 lerroak
 tail(aurpegiak)
+```
+
+`@sct`
+```{r}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 18d6469d65
+xp: 50
+```
+
+`@instructions`
+`names()` komandoak aldagien izenak ematen ditu.
+
+`@hint`
+idatzi `?names` kontsolan
+
+`@sample_code`
+```{r}
+#zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
+names(argazkiak)
+```
+
+`@solution`
+```{r}
+#zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
+names(_______)
 ```
 
 `@sct`
