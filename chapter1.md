@@ -14,12 +14,12 @@ xp: 100
 skills: 1
 ```
 
-Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non zutabe bakoitza aldagai bat den eta lerro bakoitza kasu bat (psikologian normalean pertsona bat). Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa datubase hau erabiliko dugu non pertsona bakoitzak zenbat aurpegi gogoratzen dituen ikertu den:
+Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non zutabe bakoitza aldagai ezberdin bat den eta lerro bakoitza kasu bat. Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa datubase hau erabiliko dugu non pertsona bakoitzak zenbat aurpegi gogoratzen dituen ikertu den:
 
 Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know? Proceedings of the Royal Society B 285(1888): 20181319. https://doi.org/10.1098/rspb.2018.1319
 
 `@instructions`
-1. `aurpegiak` datubasea kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
+1. `aurpegiak` datu-markoa ("data frame") kargatuta daukazu, ikus ditzazu datuak `print()` komandoa erabilita
 2. "**Run Code**" erabiliz esperimentatu dezakezu kodeak daukan irteera, erantzuna daukazunean "**Submit Answer**" sakatu
 3. Pista bat nahi baduzu sakatu "**Take Hint**" behean
 
@@ -57,13 +57,13 @@ key: ef6fa701ab
 xp: 100
 ```
 
-Jarrai dezagun `aurpegiak` datubasea miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas ditzagun bere posibilidadeak datubasea miaketa egiten dugun bitartean.
+Jarrai dezagun `aurpegiak` datu-markoa miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas ditzagun bere posibilidadeak datubasea miaketa egiten dugun bitartean.
 
 Ohar orokorrak:
 
 1. **#** sinboloa iruzkinak ipintzeko erabiliko da (honek ez du efekturik kodean)
 2. Ordezkatu markatutako azpilerroak beharrezkoa den kodearekin erantzuna lortzeko
-3. Edozein unean esperimenta daiteke kontsola lehioan eta baitere kode leioan "Run Code" klik eginez, erantzun zuzenaz seguru zaudenean "Submit Answer"-ri eman.
+3. Edozein unean esperimenta daiteke kontsola lehioan eta baitere kode leioan "Run Code" klik eginez, erantzun zuzenaz seguru zaudenean "Submit Answer"-ri eman eta feedback-a itxaron.
 
 `@pre_exercise_code`
 ```{r}
