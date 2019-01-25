@@ -1,6 +1,7 @@
 ---
 title: 'Estatistika deskribatzailea'
 description: "Zentro joerako neurriak, sakabanatze neurriak, asimetria, eta kurtosi neurriak\n"
+free_preview: true
 ---
 
 ## Datuak ikusi
