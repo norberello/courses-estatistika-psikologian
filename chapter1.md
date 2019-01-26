@@ -4,7 +4,7 @@ description: "Zentro joerako neurriak, sakabanatze neurriak, asimetria, eta kurt
 free_preview: true
 ---
 
-## Datuak ikusi
+## Datuak eta datu-markoak
 
 ```yaml
 type: NormalExercise
@@ -14,7 +14,7 @@ xp: 100
 skills: 1
 ```
 
-Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan agertuko zaizkigu non zutabe bakoitza aldagai ezberdin bat den eta lerro bakoitza kasu bat. Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa datubase hau erabiliko dugu non pertsona bakoitzak zenbat aurpegi gogoratzen dituen ikertu den:
+Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan (datu-markoa Rn) agertuko zaizkigu non zutabe bakoitza aldagai ezberdin bat den eta lerro bakoitza behaketa ala kasu bat. Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa `oroimen.data` datu-markoa erabiliko dugu non pertsona bakoitzak zenbat aurpegi gogoratzen dituen ikertu den:
 
 Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know? Proceedings of the Royal Society B 285(1888): 20181319. https://doi.org/10.1098/rspb.2018.1319
 
@@ -24,7 +24,7 @@ Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know? Proceedin
 3. Pista bat nahi baduzu sakatu "**Take Hint**" behean
 
 `@hint`
-bakarrik "submit answer" sakatu, ez duzu besterik egin behar lehengo ariketa honetan
+`bakarrik` "submit answer" sakatu, ez duzu besterik egin behar lehengo ariketa honetan
 
 `@pre_exercise_code`
 ```{r}
