@@ -147,7 +147,7 @@ xp: 30
 ```
 
 `@instructions`
-`str()` komandoak ("structure") zenbat behaketa eta aldagaiak dauden, eta inportantegoa dena: aldagaien natura diosku (aldagai kuantitatiboa ala kualitatiboaren natura)
+`str()` komandoak ("structure") zenbat behaketa eta aldagaiak dauden, eta inportantegoa dena: aldagaien natura diosku.
 
 `@hint`
 Idatzi komandoa str eta parentesisen artean datubasearen izena
