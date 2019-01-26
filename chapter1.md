@@ -101,7 +101,7 @@ tail(oroimen.data)
 
 `@sct`
 ```{r}
-success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
+success_msg("hasera ona, erraza, ezta?")
 ```
 
 ***
