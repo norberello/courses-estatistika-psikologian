@@ -194,7 +194,7 @@ key: 19b886e4c4
 xp: 100
 ```
 
-Zentro-joerako neurriek datu-multzo bat zein balioren inguruan biltzen den adierazten dute, horren sakabanatzea edo aldakortasuna kontutan hartu barik. Zentro-joerako neurririk amankomunena batezbestekoa da, `mean()`, baina batzutan mediana, `median()`, eta moda ere jakitea komenigarria liteke. 
+Zentro-joerako neurriek datu-multzo bat zein balioren inguruan biltzen den adierazten dute, horren sakabanatzea edo aldakortasuna kontutan hartu barik. Zentro-joerako neurririk amankomunena batezbestekoa da, `mean()`, baina batzutan mediana, `median()`, eta moda ere jakitea komenigarria liteke.
 
 `@instructions`
 Erabili `oroimen.data` datu-markoa kalkulatzeko pertsona batek batezbeste zenbat aurpegi gogora ditzakeen, kalkulatu aurpegien mediana ere bai. Datu-marko baten aldagai bat aukeratzeko **$** sinboloa erabiltzen da.
