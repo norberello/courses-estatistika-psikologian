@@ -85,7 +85,9 @@ xp: 35
 
 `@sample_code`
 ```{r}
+#"___" ordezkatu behar den kodearekin. Atera datu-markoaren lehenengo 6 behaketak
 head(oroimen.data)
+#Atera datu-markoaren lehenengo 6 behaketak
 tail(_________)
 ```
 
@@ -118,7 +120,7 @@ idatzi `?names` kontsolan
 
 `@sample_code`
 ```{r}
-#"___" ordezkatu behar den kodearekin. Zeintsuk dira "aurpegiak" datubasearen aldagaien izenak? 
+#Zeintsuk dira "aurpegiak" datubasearen aldagaien izenak? 
 names(_______)
 #zenbat lerro eta zutabe daude dira "aurpegiak" datubasean?
 ___(oroimen.data)
