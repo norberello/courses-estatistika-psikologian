@@ -59,13 +59,10 @@ key: ef6fa701ab
 xp: 100
 ```
 
-Jarrai dezagun `oroimen.data` datu-markoa miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas ditzagun bere posibilidadeak datubasea miaketa egiten dugun bitartean.
-
-Ohar orokorrak:
+Jarrai dezagun `oroimen.data` datu-markoa miatzen. Badaude R komandu amankomun batzuk hau egiteko, ikas ditzagun bere posibilidadeak datubasea miaketa egiten dugun bitartean. Oharrak
 
 1. **#** sinboloa iruzkinak ipintzeko erabiliko da (honek ez du efekturik kodean)
-2. Ordezkatu markatutako azpilerroak beharrezkoa den kodearekin erantzuna lortzeko
-3. Edozein unean esperimenta daiteke kontsola lehioan eta baitere kode leioan "Run Code" klik eginez, erantzun zuzenaz seguru zaudenean "Submit Answer"-ri eman eta feedback-a itxaron.
+2. Edozein unean esperimenta daiteke kontsola lehioan eta baitere kode leioan "Run Code" klik eginez, erantzun zuzenaz seguru zaudenean "Submit Answer"-ri eman eta feedback-a itxaron.
 
 `@pre_exercise_code`
 ```{r}
@@ -121,7 +118,7 @@ idatzi `?names` kontsolan
 
 `@sample_code`
 ```{r}
-#zeintsuk dira "aurpegiak" datubasearen aldagaien izenak?
+#"___" ordezkatu behar den kodearekin. Zeintsuk dira "aurpegiak" datubasearen aldagaien izenak? 
 names(_______)
 #zenbat lerro eta zutabe daude dira "aurpegiak" datubasean?
 ___(oroimen.data)
