@@ -101,7 +101,7 @@ tail(oroimen.data)
 
 `@sct`
 ```{r}
-success_msg("hasera ona, erraza, ezta?")
+success_msg("bai, hori da, ederki ari zara!")
 ```
 
 ***
