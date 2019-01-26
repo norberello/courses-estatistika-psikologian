@@ -149,7 +149,7 @@ key: 8e60ae875d
 `class()` aginduak objetu baten kategoria zer den diosku. Aplikaiozu `mean` funtzioari eta `oroimen.data`ri ere bai
 
 `@hint`
-
+ze pista behar duzu? pentsatu bakarrik
 
 `@sample_code`
 ```{r}
