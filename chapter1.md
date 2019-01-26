@@ -78,7 +78,7 @@ xp: 35
 ```
 
 `@instructions`
-`head()` and `tail()` aginduek lehenengo eta azkenengo 6 lerroak aldagien izenburuekin ematen dizkigute besteak beste.
+`head()` and `tail()` funtzioek lehenengo eta azkenengo 6 lerroak aldagien izenburuekin ematen dizkigute besteak beste.
 
 `@hint`
 `oroimen.data` ipini behar den lekuan
@@ -136,6 +136,38 @@ dim(oroimen.data)
 `@sct`
 ```{r}
 success_msg("hasera ona, orain badakizu nola funtzionatzen duen")
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 8e60ae875d
+```
+
+`@instructions`
+`class()` aginduak objetu baten kategoria zer den diosku. Aplikaiozu `mean` funtzioari eta `oroimen.data`ri ere bai
+
+`@hint`
+
+
+`@sample_code`
+```{r}
+#zer objetu mota da "mean" komandoa
+class(mean)
+#zer da "oroimen.data"
+_____(__________)
+```
+
+`@solution`
+```{r}
+class(mean)
+class(oroimen.data)
+```
+
+`@sct`
+```{r}
+
 ```
 
 ***
