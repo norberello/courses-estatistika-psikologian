@@ -14,7 +14,7 @@ xp: 100
 skills: 1
 ```
 
-Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan (datu-markoa Rn) agertuko zaizkigu non zutabe bakoitza aldagai ezberdin bat den eta lerro bakoitza behaketa ala kasu bat. Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa `oroimen.data` datu-markoa erabiliko dugu non pertsona bakoitzak zenbat aurpegi gogoratzen dituen ikertu den:
+Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan (datu-markoa Rn) agertuko zaizkigu non zutabe bakoitza aldagai ezberdin bat den eta lerro bakoitza behaketa ala kasu bat. Edozein analisirik egin baino lehenago oso komenigarria da gure datuen natura ezagutzea. Adibide gisa `oroimen.data` datu-markoa erabiliko dugu non pertsona bakoitzak zenbat aurpegi gogoratzen dituen ikertu zen:
 
 [Jenkins R, Dowsett AJ, Burton AM (2018) How many faces do people know? Proceedings of the Royal Society B 285(1888): 20181319] (https://doi.org/10.1098/rspb.2018.1319)
 
