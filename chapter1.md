@@ -85,9 +85,9 @@ xp: 35
 
 `@sample_code`
 ```{r}
-#"___" ordezkatu behar den kodearekin. Atera datu-markoaren lehenengo 6 behaketak
-head(oroimen.data)
 #Atera datu-markoaren lehenengo 6 behaketak
+head(oroimen.data)
+#Atera datu-markoaren azkenego 6 behaketak. "___" ordezkatu behar den kodearekin. 
 tail(_________)
 ```
 
