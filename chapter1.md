@@ -113,7 +113,7 @@ xp: 35
 ```
 
 `@instructions`
-`names()` komandoak aldagien izenak ematen ditu eta dim() datubasearen dimentsioak (zenbat lerro eta zenbat zutabe)
+`names()` komandoak aldagien izenak ematen ditu eta `dim()` datubasearen dimentsioak (zenbat lerro eta zenbat zutabe)
 
 `@hint`
 idatzi `?names` kontsolan
@@ -147,7 +147,7 @@ xp: 30
 ```
 
 `@instructions`
-str() komandoak ("structure") zenbat behaketa eta aldagaiak dauden, eta inportantegoa dena: aldagaien natura diosku.
+`str()` komandoak ("structure") zenbat behaketa eta aldagaiak dauden, eta inportantegoa dena: aldagaien natura diosku (aldagai kuantitatiboa ala kualitatiboaren natura)
 
 `@hint`
 Idatzi komandoa str eta parentesisen artean datubasearen izena
@@ -166,23 +166,6 @@ str(oroimen.data)
 `@sct`
 ```{r}
 success_msg("oso ondo, $ sinboloa erabiltzen da aldagaiak banaka identifikatzeko, hurrengo ariketetan ulertuko duzu hobeto")
-```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: TabExercise
-key: 1aa4f35dcc
-xp: 100
-```
-
-
-
-`@pre_exercise_code`
-```{r}
-
 ```
 
 ---
