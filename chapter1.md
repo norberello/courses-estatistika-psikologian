@@ -81,7 +81,7 @@ xp: 35
 ```
 
 `@instructions`
-`head()` and `tail()` aginduek lehenego eta azkenengo 6 lerroak aldagien izenburuekin ematen dizkigute besteak beste.
+`head()` and `tail()` aginduek lehenengo eta azkenengo 6 lerroak aldagien izenburuekin ematen dizkigute besteak beste.
 
 `@hint`
 `oroimen.data` ipini behar den lekuan
