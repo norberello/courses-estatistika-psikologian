@@ -4,6 +4,19 @@ description: "Zentro joerako neurriak, sakabanatze neurriak, asimetria, eta kurt
 free_preview: true
 ---
 
+## Estatistika deskribatzailea, zure datuak ezagutzen
+
+```yaml
+type: VideoExercise
+key: bf00f8136e
+xp: 50
+```
+
+`@projector_key`
+54afb401586af40cf88a78656b190c08
+
+---
+
 ## Datuak eta datu-markoak
 
 ```yaml
@@ -292,4 +305,131 @@ ex() %>% check_mc(correct = 4,
 
 # Final message the student will see upon completing the exercise
 success_msg("bai, halan da, gehien errepikatzen den adina 22 urtetakoa izan da, 9 pertsonak adin hori dauka alegia")
+```
+
+---
+
+## Sakabatze neurriak
+
+```yaml
+type: VideoExercise
+key: b93fbd3a14
+xp: 50
+```
+
+`@projector_key`
+48a6331fb2fed2d25a6c02e5dbe68212
+
+---
+
+## Ibiltartea
+
+```yaml
+type: NormalExercise
+key: 08a53e795f
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## Bariantza eta desbiderapen tipikoa
+
+```yaml
+type: NormalExercise
+key: c7d5e04d6e
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## zorroztasuna eta bariantza
+
+```yaml
+type: NormalExercise
+key: ee1903709b
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+#https://www.r-bloggers.com/measures-of-skewness-and-kurtosis/
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
 ```
