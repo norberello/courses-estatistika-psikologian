@@ -44,6 +44,7 @@ Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan (datu-markoa Rn) ager
 oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
 #https://rmarkdown.rstudio.com/authoring_basics.html
 #markdown writting basics
+#https://sites.trinity.edu/osl/#open great course in cognitive psy stats
 ```
 
 `@sample_code`
