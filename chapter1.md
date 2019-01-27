@@ -37,7 +37,7 @@ Ikus ditzagun datuak! Normalean datuak orri kalkulo moduan (datu-markoa Rn) ager
 3. Pista bat nahi baduzu sakatu "**Take Hint**" behean
 
 `@hint`
-`bakarrik` "submit answer" sakatu, ez duzu besterik egin behar lehengo ariketa honetan
+`bakarrik` "**Submit Answer**" sakatu, ez duzu besterik egin behar lehengo ariketa honetan
 
 `@pre_exercise_code`
 ```{r}
