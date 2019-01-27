@@ -258,7 +258,7 @@ median(oroimen.data$Aurpegiak)
 
 ---
 
-## moda eta maiztasun taula
+## Moda eta maiztasun taula
 
 ```yaml
 type: MultipleChoiceExercise
@@ -398,7 +398,7 @@ xp: 100
 
 ---
 
-## zorroztasuna eta bariantza
+## Zorroztasuna eta bariantza
 
 ```yaml
 type: NormalExercise
