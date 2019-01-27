@@ -309,44 +309,6 @@ success_msg("bai, halan da, gehien errepikatzen den adina 22 urtetakoa izan da, 
 
 ---
 
-## histograma
-
-```yaml
-type: NormalExercise
-key: 4657c518f0
-xp: 100
-```
-
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
----
-
 ## Sakabatze neurriak
 
 ```yaml
@@ -403,6 +365,44 @@ xp: 100
 ```yaml
 type: NormalExercise
 key: c7d5e04d6e
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## histograma
+
+```yaml
+type: NormalExercise
+key: 4657c518f0
 xp: 100
 ```
 
