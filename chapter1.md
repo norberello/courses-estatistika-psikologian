@@ -4,7 +4,7 @@ description: "Zentro joerako neurriak, sakabanatze neurriak, asimetria, eta kurt
 free_preview: true
 ---
 
-## Estatistika deskribatzailea, zure datuak ezagutzen
+## Zenbat aurpegi gogoratzen dituzu?
 
 ```yaml
 type: VideoExercise
@@ -399,7 +399,7 @@ xp: 100
 
 ---
 
-## histograma
+## Histograma
 
 ```yaml
 type: NormalExercise
@@ -437,7 +437,7 @@ xp: 100
 
 ---
 
-## Zorroztasuna eta bariantza
+## Zorroztasuna (asimetria) eta kurtosia
 
 ```yaml
 type: NormalExercise
