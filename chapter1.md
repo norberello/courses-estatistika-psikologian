@@ -399,6 +399,44 @@ xp: 100
 
 ---
 
+## Errore tipikoa
+
+```yaml
+type: NormalExercise
+key: 66123ccc84
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
 ## Histograma
 
 ```yaml
