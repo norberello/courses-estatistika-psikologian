@@ -417,7 +417,7 @@ xp: 100
 
 `@pre_exercise_code`
 ```{r}
-
+oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
 ```
 
 `@sample_code`
@@ -427,7 +427,7 @@ xp: 100
 
 `@solution`
 ```{r}
-
+sd(oroimen.data$Aurpegiak)/sqrt(length(x))
 ```
 
 `@sct`
