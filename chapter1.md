@@ -535,6 +535,7 @@ Intuitively, the excess kurtosis describes the tail shape of the data distributi
 ```{r}
 #https://www.r-bloggers.com/measures-of-skewness-and-kurtosis/
 #http://www.r-tutor.com/elementary-statistics/numerical-measures/kurtosis
+#https://steemit.com/statistics/@dkmathstats/skewness-and-kurtosis-in-r
 ```
 
 `@sample_code`
