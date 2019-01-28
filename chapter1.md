@@ -1,6 +1,6 @@
 ---
 title: 'Estatistika deskribatzailea'
-description: "Zentro joerako neurriak, sakabanatze neurriak, asimetria, eta kurtosi neurriak\n"
+description: "Zentro joerako neurriak, sakabanatze neurriak, asimetria, eta kurtosi neurriak.\n"
 free_preview: true
 ---
 
@@ -310,6 +310,44 @@ success_msg("bai, halan da, gehien errepikatzen den adina 22 urtetakoa izan da, 
 
 ---
 
+## Objetuak esleitzen
+
+```yaml
+type: NormalExercise
+key: b19cc38917
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
 ## Sakabatze neurriak
 
 ```yaml
@@ -407,7 +445,7 @@ key: 66123ccc84
 xp: 100
 ```
 
-
+The standard error (SE) of a statistic (usually an estimate of a parameter) is the standard deviation of its sampling distribution[1] or an estimate of that standard deviation. If the parameter or the statistic is the mean, it is called the standard error of the mean (SEM). The standard error is just the standard deviation divided by the square root of the sample size.
 
 `@instructions`
 
@@ -483,6 +521,8 @@ key: ee1903709b
 xp: 100
 ```
 
+Intuitively, the excess kurtosis describes the tail shape of the data distribution. The normal distribution has zero excess kurtosis and thus the standard tail shape. It is said to be mesokurtic. Negative excess kurtosis would indicate a thin-tailed data distribution, and is said to be platykurtic. Positive excess kurtosis would indicate a fat-tailed distribution, and is said to be leptokurtic.
+
 
 
 `@instructions`
@@ -494,6 +534,7 @@ xp: 100
 `@pre_exercise_code`
 ```{r}
 #https://www.r-bloggers.com/measures-of-skewness-and-kurtosis/
+#http://www.r-tutor.com/elementary-statistics/numerical-measures/kurtosis
 ```
 
 `@sample_code`
