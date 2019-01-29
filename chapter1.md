@@ -521,7 +521,7 @@ key: ee1903709b
 xp: 100
 ```
 
-Intuitively, the excess kurtosis describes the tail shape of the data distribution. The normal distribution has zero excess kurtosis and thus the standard tail shape. It is said to be mesokurtic. Negative excess kurtosis would indicate a thin-tailed data distribution, and is said to be platykurtic. Positive excess kurtosis would indicate a fat-tailed distribution, and is said to be leptokurtic. Kurtosis is a measure of the peakedness of a probability/frequency distribution
+Skewness is the measure of the symmetry of the distribution. The distribution of the data is said to be normal if we get a bell-shaped curve wherein the data is symmetric across the mean (or median or mode, which are all equal; the figure at the centre below). The skewness is said to be zero in this case.
 
 
 
@@ -555,7 +555,7 @@ Intuitively, the excess kurtosis describes the tail shape of the data distributi
 
 ---
 
-## Kurtosia
+## Kurtosia (zorroztasuna)
 
 ```yaml
 type: NormalExercise
@@ -563,7 +563,7 @@ key: f2c55f6033
 xp: 100
 ```
 
-
+Intuitively, the excess kurtosis describes the tail shape of the data distribution. The normal distribution has zero excess kurtosis and thus the standard tail shape. It is said to be mesokurtic. Negative excess kurtosis would indicate a thin-tailed data distribution, and is said to be platykurtic. Positive excess kurtosis would indicate a fat-tailed distribution, and is said to be leptokurtic. Kurtosis is a measure of the peakedness of a probability/frequency distribution. Thus skewness speaks about the manner in which the data is spread across the mean. However, the data could be concentrated across the mean or dispersed equally across it which determines the peakedness of the curve. This measure is termed as Kurtosis which indicates the way in which the values are bundled across the centre of dispersion.
 
 `@instructions`
 
@@ -578,7 +578,7 @@ xp: 100
 
 `@sample_code`
 ```{r}
-
+#https://www.excelr.com/skewness-and-kurtosis/
 ```
 
 `@solution`
