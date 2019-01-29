@@ -513,7 +513,7 @@ xp: 100
 
 ---
 
-## Zorroztasuna (asimetria) eta kurtosia
+## Asimetria
 
 ```yaml
 type: NormalExercise
@@ -536,6 +536,44 @@ Intuitively, the excess kurtosis describes the tail shape of the data distributi
 #https://www.r-bloggers.com/measures-of-skewness-and-kurtosis/
 #http://www.r-tutor.com/elementary-statistics/numerical-measures/kurtosis
 #https://steemit.com/statistics/@dkmathstats/skewness-and-kurtosis-in-r
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## Kurtosia
+
+```yaml
+type: NormalExercise
+key: f2c55f6033
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
 ```
 
 `@sample_code`
