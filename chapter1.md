@@ -577,6 +577,7 @@ Intuitively, the excess kurtosis describes the tail shape of the data distributi
 `@sample_code`
 ```{r}
 #https://www.excelr.com/skewness-and-kurtosis/
+#let's use the moments library
 ```
 
 `@solution`
