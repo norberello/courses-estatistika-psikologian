@@ -523,8 +523,6 @@ xp: 100
 
 Skewness is the measure of the symmetry of the distribution. The distribution of the data is said to be normal if we get a bell-shaped curve wherein the data is symmetric across the mean (or median or mode, which are all equal; the figure at the centre below). The skewness is said to be zero in this case.
 
-
-
 `@instructions`
 
 
