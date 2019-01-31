@@ -534,6 +534,11 @@ Skewness is the measure of the symmetry of the distribution. The distribution of
 #https://www.r-bloggers.com/measures-of-skewness-and-kurtosis/
 #http://www.r-tutor.com/elementary-statistics/numerical-measures/kurtosis
 #https://steemit.com/statistics/@dkmathstats/skewness-and-kurtosis-in-r
+oroimen.data <- read.csv(url("https://assets.datacamp.com/production/repositories/4527/datasets/748592c9843be0a0c488e28c86dab3691814e629/aurpegiak.csv"))
+library(moments)
+
+#skewness(d,na.rm = TRUE)
+#kurtosis(d,na.rm=TRUE)
 ```
 
 `@sample_code`
