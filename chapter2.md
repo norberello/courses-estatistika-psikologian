@@ -1,3 +1,3 @@
 ---
-title: Korrelazioak
-description: 'Pearson-en korrelazio indizea, Spearman-en korrelazio indizea'
+title: 'Doikuntzaren egokitasunerako chi-karratu froga'
+description: 'Behatutako maiztasunak eta maiztasun teorikoen arteko diferentziak ikertzeko froga'
